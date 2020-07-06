@@ -1,0 +1,14 @@
+.vscode
+autom4te.cache
+build
+debug
+*.in
+*.in~
+aclocal.m4
+configure
+test/*
+!test/test_script.cpp
+!test/Makefile.am
+* copy*.*
+.build-m4/l*
+.build-aux/

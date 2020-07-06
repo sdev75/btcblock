@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+AllowShortFunctionsOnASingleLine: None
+Cpp11BracedListStyle: true 
+AccessModifierOffset: -2
+IndentWidth: 2
+SpaceBeforeParens: ControlStatements
+SortIncludes: false
+IncludeBlocks: Preserve
+AlignEscapedNewlines: Left
+AlignConsecutiveAssignments: true
